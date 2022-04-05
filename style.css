@@ -1,0 +1,27 @@
+body {
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+input {
+    width: 100%; 
+    margin-bottom: 20px;
+    color: lightgray;
+}
+
+textarea {
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #fff;
+    border-color: lightgray;
+    border-style: solid;
+    border-radius: 5px;
+}
